@@ -4,7 +4,7 @@ VPN-клиент для macOS на ядре Xray. Работает с подпи
 
 ## Установка
 
-1. Откройте [Releases](https://github.com/nektona/nektona-client/releases/latest) и скачайте образ для macOS — файл вида `nektona-1.0.0-macos-arm64.dmg`.
+1. Скачайте образ для macOS: [nektona-macos-arm64.dmg](https://github.com/nektona/nektona-client/releases/latest/download/nektona-macos-arm64.dmg) — это всегда последняя версия.
 2. Откройте образ и перетащите Nektona в «Программы».
 
 Требуется macOS 26 на Apple Silicon.
@@ -13,4 +13,4 @@ VPN-клиент для macOS на ядре Xray. Работает с подпи
 
 ---
 
-A VPN client for macOS built on Xray; works with subscriptions of any provider. This repository holds the released builds only: download the macOS image (`nektona-<version>-macos-arm64.dmg`) from [Releases](https://github.com/nektona/nektona-client/releases/latest).
+A VPN client for macOS built on Xray; works with subscriptions of any provider. This repository holds the released builds only: download the latest macOS image: [nektona-macos-arm64.dmg](https://github.com/nektona/nektona-client/releases/latest/download/nektona-macos-arm64.dmg).
